@@ -10,7 +10,6 @@ import {
 import { useContextSelector } from 'use-context-selector'
 import { TransactionContext } from '../../context/TransactionContext'
 import { dateFormat, priceFormatter } from '../../utils/formater'
-import { Trash } from 'phosphor-react'
 
 export function HomeTrasaction() {
   const transactions = useContextSelector(TransactionContext, (context) => {
