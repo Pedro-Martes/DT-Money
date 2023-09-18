@@ -1,38 +1,6 @@
 {
   "transactions": [
     {
-      "id": 1,
-      "description": "Dev de site",
-      "type": "income",
-      "category": "Venda",
-      "price": 1400,
-      "createdAt": "2022-12-17T02:02:20.413Z"
-    },
-    {
-      "id": 2,
-      "description": "Teclado de Dev",
-      "type": "outcome",
-      "category": "Investimento",
-      "price": 297,
-      "createdAt": "2022-12-18T02:02:20.413Z"
-    },
-    {
-      "id": 3,
-      "description": "Teclado de Dev",
-      "type": "outcome",
-      "category": "Investimento",
-      "price": 297,
-      "createdAt": "2022-12-18T02:02:20.413Z"
-    },
-    {
-      "description": "Curso ignite",
-      "type": "outcome",
-      "category": "Investimento",
-      "price": 1700,
-      "createdAt": "2023-01-03T01:24:40.302Z",
-      "id": 4
-    },
-    {
       "description": "Venda de aplicativo",
       "type": "income",
       "category": "venda",
@@ -41,36 +9,20 @@
       "id": 5
     },
     {
-      "description": "teste",
-      "type": "income",
-      "category": "testes",
-      "price": 1,
-      "createdAt": "2023-01-03T01:36:48.874Z",
-      "id": 6
-    },
-    {
-      "description": "almoço",
+      "description": "Despesa",
       "type": "outcome",
       "category": "comida",
-      "price": 25,
+      "price": 250,
       "createdAt": "2023-01-03T01:57:45.723Z",
       "id": 7
     },
     {
       "description": "teste",
       "type": "income",
-      "category": "teste",
-      "price": 2,
-      "createdAt": "2023-01-04T01:39:03.990Z",
+      "category": "testes",
+      "price": 1,
+      "createdAt": "2023-09-18T17:06:24.049Z",
       "id": 8
-    },
-    {
-      "description": "switch",
-      "type": "outcome",
-      "category": "fun",
-      "price": 12000,
-      "createdAt": "2023-01-27T00:22:23.950Z",
-      "id": 9
     }
   ]
 }
