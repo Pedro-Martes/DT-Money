@@ -1,5 +1,5 @@
 
-# 💸 DT Money - Controle Financeiro Pessoa
+# 💸 DT Money - Controle Financeiro Pessoal
 
 Bem-vindo ao repositório do projeto DT Money, um aplicativo desenvolvido em React.JS para auxiliar no controle financeiro pessoal.
 
