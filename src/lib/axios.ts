@@ -1,5 +1,5 @@
 import axios from 'axios'
 
 export const api = axios.create({
-  baseURL: 'https://dt-money-fawn-nine.vercel.app',
+  baseURL: 'https://dt-money-gamma-sable.vercel.app:3333',
 })
